@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Personal Website</title>
+    <link>https://erros2107.github.io/project/</link>
+      <atom:link href="https://erros2107.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://erros2107.github.io/media/icon_huec62b77d18e9b51501817029f2c730bc_6986_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://erros2107.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Master Consultancy project</title>
+      <link>https://erros2107.github.io/project/consultancy/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://erros2107.github.io/project/consultancy/</guid>
+      <description>&lt;p&gt;Liver cancer is the second leading cause of cancer-related death worldwide. The most important risk factor for HCC diagnosis is cirrhosis of the liver. Cirrhosis arises as a result of long-lasting damage cause to the liver due to the building up of scar tissue. Several factors have been identified of being the main cause behind cirrhosis, including viral hepatitis B and C (HepBand HepC), alcoholic liver disease (ALD), non-alcoholic fatty liver disease (NAFLD). Longitudinal measurements of biomarker levels, age, gender, aetiologies and cancer status were obtained from patients undergoing screening from 2009 and 2017 in the South East region of Scotland. This report focused on analysing longitudinal healtcare data and describe several statistical methodologies to estimate the survival rate of patient affected by liver cancer.&lt;/p&gt;
+&lt;p&gt;Here you can access the slides of the project presentation
+&lt;a href=&#34;https://erros2107.github.io/files/UoE_beamer_master.pdf&#34; target=&#34;_blank&#34;&gt;
+&lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ErRos2107/Consultancy-Project-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See my Github repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
